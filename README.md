@@ -1,7 +1,7 @@
 MR.BABY
 ======
 
-Financial technology industry An Unmarried Man
+Financial Technology Industry An Unmarried Man
 
 E-MAIL
 ======
