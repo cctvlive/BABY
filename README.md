@@ -1,8 +1,6 @@
 MR.BABY
 ======
 
-®G Financial Technology Industry An Unmarried Man💋🍒
-
 E-MAIL
 ======
 
