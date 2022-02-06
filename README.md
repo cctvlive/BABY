@@ -1,7 +1,7 @@
 MR.BABY
 ======
 
-![image](docs/image/love.jpg)
+![image](docs/image/loveF.jpg)
 
 E-MAIL
 ======
