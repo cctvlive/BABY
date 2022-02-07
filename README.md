@@ -7,7 +7,7 @@ E-MAIL
 ======
 
 ```bash
-MRS_BABY@126.com
+CHINA_VIPOS@163.com
 ```
 
 事务公开
