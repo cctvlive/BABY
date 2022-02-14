@@ -7,7 +7,7 @@ E-MAIL
 ======
 
 ```bash
-CHINA_VIP_CLUB33@cecccc.com
+CHINA_VIP_CLUB33@CECCCC.COM
 ```
 
 事务公开
