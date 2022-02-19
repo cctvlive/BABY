@@ -14,10 +14,10 @@ CHINA_VIP_CLUB33@CECCCC.COM
 ======
 
 ```bash
-币种:人民币(RMB)、事务积分(μm)、行政信誉积分Administrative Credit Points(ADCP)、商业信誉积分Commercial Credit Points(CCP)  单位:元 
+币种:人民币(RMB)、事务积分(μm)、行政信誉积分Administrative Credit Points(ACP)、商业信誉积分Commercial Credit Points(CCP)  单位:元 
 汇率:1RMB=10角=100分
-上半年度汇率:1RMB=10角=100分=1000μm=10000ADCP=100000CCP
-下半年度汇率:1RMB=10角=100分=10000μm=100000ADCP=1000000CCP
+上半年度汇率:1RMB=10角=100分=1000μm=10000ACP=100000CCP
+下半年度汇率:1RMB=10角=100分=10000μm=100000ACP=1000000CCP
 OR值:一般:1RMB,良好:3RMB,优秀:5RMB
 ```
 
