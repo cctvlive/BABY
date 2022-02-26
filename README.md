@@ -17,8 +17,8 @@ CHINA_VIP_CLUB33@CECCCC.COM
 单位:元 币种:
 人民币(RMB)
 事务积分(μm)
-行政积分Administrative Points(AP)
-商业积分Commercial Points(CP)
+行政积分(AP)
+商业积分(CP)
 
 RMB年度汇率:1RMB=10角=100分
 1月-6月MBO汇率:1RMB=10角=100分=1000μm=10000AP=100000CP
