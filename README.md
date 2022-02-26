@@ -1,7 +1,9 @@
 MR.BABY
 ======
 
+```bash
 ![image](docs/image/loveF.jpg)
+```
 
 E-MAIL
 ======
@@ -17,13 +19,12 @@ CHINA_VIP_CLUB33@CECCCC.COM
 单位:元 币种:
 人民币(RMB)
 事务积分(μm)
-行政信誉积分Administrative Credit Points(ACP)
-商业信誉积分Commercial Credit Points(CCP)
+行政积分Administrative Points(AP)
+商业积分Commercial Points(CP)
 
-汇率:1RMB=10角=100分
-上半年汇率:1RMB=10角=100分=1000μm=10000ACP=100000CCP
-下半年汇率:1RMB=10角=100分=10000μm=100000ACP=1000000CCP
-
+RMB年度汇率:1RMB=10角=100分
+1月-6月MBO汇率:1RMB=10角=100分=1000μm=10000AP=100000CP
+7月-12月MBO汇率:1RMB=10角=100分=10000μm=100000AP=1000000CP
 
 MBO:一般:1RMB,良好:3RMB,优秀:5RMB
 ```
