@@ -1,4 +1,4 @@
-MR.BABY
+BABY
 ======
 
 ![image](docs/image/loveF.jpg)
