@@ -13,8 +13,6 @@ CHINA_VIP_CLUB33@CECCCC.COM
 事务公开
 ======
 
-[西部集市](https://westcity.cecccc.com)  [东部集市](https://eastcity.cecccc.com)
-
 年度:2022年 
 ---
 
